@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/home/iftekher/NetBeansProjects/HumanResourceManagement/src/md5/HashMD.java</file>
+            <file>file:/home/iftekher/NetBeansProjects/HumanResourceManagement/src/Hibernate/HibernateSingleton.java</file>
+            <file>file:/home/iftekher/NetBeansProjects/HumanResourceManagement/src/humanresourcemanagement/ManagementUIController.java</file>
+            <file>file:/home/iftekher/NetBeansProjects/HumanResourceManagement/src/humanresourcemanagement/LoginUI.fxml</file>
+            <file>file:/home/iftekher/NetBeansProjects/HumanResourceManagement/src/ModelClasses/User.java</file>
+            <file>file:/home/iftekher/NetBeansProjects/HumanResourceManagement/src/humanresourcemanagement/ManagementUI.fxml</file>
+            <file>file:/home/iftekher/NetBeansProjects/HumanResourceManagement/src/ModelClasses/Salary.java</file>
+            <file>file:/home/iftekher/NetBeansProjects/HumanResourceManagement/src/ModelClasses/Address.java</file>
+            <file>file:/home/iftekher/NetBeansProjects/HumanResourceManagement/src/humanresourcemanagement/LoginUIController.java</file>
+            <file>file:/home/iftekher/NetBeansProjects/HumanResourceManagement/src/Hibernate/hibernate.cfg.xml</file>
+            <file>file:/home/iftekher/NetBeansProjects/HumanResourceManagement/src/ModelClasses/Employee.java</file>
+            <file>file:/home/iftekher/NetBeansProjects/HumanResourceManagement/src/humanresourcemanagement/HumanResourceManagement.java</file>
+            <file>file:/home/iftekher/NetBeansProjects/HumanResourceManagement/src/ModelClasses/SalaryDetails.java</file>
+            <file>file:/home/iftekher/NetBeansProjects/HumanResourceManagement/src/ModelClasses/PersonalInformation.java</file>
+        </group>
+    </open-files>
+</project-private>
